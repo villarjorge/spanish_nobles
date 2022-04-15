@@ -52,6 +52,6 @@ Si realizas una busqueda sin nada en la web dada obtendras la tabla de la cual h
 
 Algunos nobles tienen multiples títulos. Por ejemplo el duque de Abrantes es también el marqués del Duero. Mantener un título cuesta dinero y no da ninguna ventaja fiscal. El Rey puede elegir rehabilitar una linea en una nueva persona, lo que también cuesta dinero. 
     
-Algunas referencias para leer más sobre esto: <a href="https://en.wikipedia.org/wiki/Spanish_nobility">spanish nobility</a>, <a href="https://en.wikipedia.org/wiki/Grandee">Grandee of Spain</a>  
+Algunas referencias para leer más sobre esto: <a href="https://es.wikipedia.org/wiki/T%C3%ADtulos_reales_y_nobiliarios_de_Espa%C3%B1a">spanish nobility</a>, <a href="es.wikipedia.org/wiki/Grandeza_de_España">Grandee of Spain</a>  
 
 <img src="https://github.com/villarjorge/spanish_nobles/blob/main/Horrible_html.png" alt="horrendus html">
