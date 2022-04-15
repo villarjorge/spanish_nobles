@@ -4,19 +4,19 @@ DO NOT USE THIS INFORMATION FOR COMMERCIAL PURPOSES
 
 A csv file containing the 2823 official Spanish nobility titles as of 15/04/2022. The file is called "nobles_de_españa.csv". The first row of the file is the collum headers. The collumn headers are: 
 
-'Título',
-'Fecha/año concesión título',
-'Monarca concesión',
-'Grandeza',
-'Fecha/año concesión grandeza',
-'Monarca Grandeza',
-'Concesionario',
-'Concesionario Grandeza',
-'Sucesivos titulares',
-'Titular actual',
-'Fecha Carta sucesión',
-'Fecha Boe',
-'Otros títulos'
+    'Título',
+    'Fecha/año concesión título',
+    'Monarca concesión',
+    'Grandeza',
+    'Fecha/año concesión grandeza',
+    'Monarca Grandeza',
+    'Concesionario',
+    'Concesionario Grandeza',
+    'Sucesivos titulares',
+    'Titular actual',
+    'Fecha Carta sucesión',
+    'Fecha Boe',
+    'Otros títulos'
 
 The csv uses a plus sign as a separator. If you use Python and Pandas you can load the file as a dataframe with pd.read_csv(filepath_or_buffer="nobles_de_españa.csv", sep="+") (reminder for myself)
 
@@ -32,19 +32,19 @@ NO UTILIZES ESTA INFORMACIÓN PARA FINES COMERCIALES
     
 Un archivo csv que contiene los 2823 nobles españoles, tal y como vienen en la <a href="https://www.diputaciondelagrandezaytitulosdelreino.es/guiadetitulo">Diputación Permanente y Consejo de la Grandeza de España y Títulos del Reino</a> (15/04/2022). El archivo se llama "nobles_de_españa.csv". La primera fila del mismo define los nombres de la columna, que son:
     
-'Título',
-'Fecha/año concesión título',
-'Monarca concesión',
-'Grandeza',
-'Fecha/año concesión grandeza',
-'Monarca Grandeza',
-'Concesionario',
-'Concesionario Grandeza',
-'Sucesivos titulares',
-'Titular actual',
-'Fecha Carta sucesión',
-'Fecha Boe',
-'Otros títulos'
+    'Título',
+    'Fecha/año concesión título',
+    'Monarca concesión',
+    'Grandeza',
+    'Fecha/año concesión grandeza',
+    'Monarca Grandeza',
+    'Concesionario',
+    'Concesionario Grandeza',
+    'Sucesivos titulares',
+    'Titular actual',
+    'Fecha Carta sucesión',
+    'Fecha Boe',
+    'Otros títulos'
  
 El archivo csv utiliza un signo más "+" como separador. Si utilizas pyhton y pandas puedes cargar el archivo como un dataframe con pd.read_csv(filepath_or_buffer="nobles_de_españa.csv", sep="+") (reminder for myself)
 
